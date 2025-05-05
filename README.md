@@ -5,8 +5,8 @@
 ## 🔧 **Technologies Used**
 
 - ⚙️ **Jenkins** (Declarative Pipeline)
-- 🛠️ **Maven**
-- ☕ **JDK 17**
+- 🛠️ **Maven 3.9**
+- ☕ **JDK 17 and 21**
 - 📊 **SonarQube** (Code Quality & Quality Gate)
 - ✍️ **Checkstyle** (Code Formatting)
 - 🐋 **Docker** & **Amazon ECR** (Image Build & Push)
